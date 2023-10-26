@@ -22,5 +22,6 @@ int main()
 {
     int x;
     scanf("%d", &x);
-
+    int result = mySqrt(x);
+    printf("%d", result);      
 }
