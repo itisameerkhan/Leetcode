@@ -71,4 +71,8 @@ int main()
 Algorithm : Brute Force
 Time Complexity: O(n * m) * O(n * m) + O(m + n) -> O(n²) 
 Space Complexity: O(m * n) -> O(n²)
+
+Runtime -> 17ms Beats: 9.35 %
+Memory -> 13.85MB Beats: 35.07 %
+
 */
