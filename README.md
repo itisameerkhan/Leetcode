@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Easy-154-green" >
   <img src="https://img.shields.io/badge/Medium-67-orange" >
   <img src="https://img.shields.io/badge/Hard-5-red" >
