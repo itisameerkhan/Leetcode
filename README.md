@@ -1,7 +1,30 @@
 # Leetcode
 # Solved Code Repository
-<p align="center">
+
 <img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
+
+## Technology Used
+
+<p align="center">
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+   
 </p>
 
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
