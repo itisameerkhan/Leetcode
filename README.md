@@ -1,7 +1,7 @@
 # Leetcode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20solved-227-blue?style=for-the-badge" >
+  <img src="https://img.shields.io/badge/Problems%20solved-227-blue" >
 </p>
 
 <p align="center">
@@ -61,7 +61,3 @@ This repository does not have a specific license, so you are free to use the cod
 If you have any questions or suggestions, feel free to open an issue in the repository.
 
 Happy coding!
-
-
-
-
