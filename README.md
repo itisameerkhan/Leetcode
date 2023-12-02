@@ -1,7 +1,7 @@
 # Leetcode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20solved-227-blue" >
+  <img src="https://img.shields.io/badge/Problems%20solved-227-blue?style=for-the-badge" >
 </p>
 
 <p align="center">
