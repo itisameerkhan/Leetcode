@@ -1,7 +1,8 @@
 # Leetcode
 # Solved Code Repository
-
+<p align="center">
 <img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
+</p>
 
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
 
