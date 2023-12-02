@@ -1,9 +1,11 @@
 # Leetcode
 # Solved Code Repository
 
-<img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Easy-154-green" >
   <img src="https://img.shields.io/badge/Medium-67-orange" >
   <img src="https://img.shields.io/badge/Hard-5-red" >
