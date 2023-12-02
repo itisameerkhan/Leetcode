@@ -1,7 +1,9 @@
 # Leetcode
 # Solved Code Repository
 
-<img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
+</p>
 
 ## Technology Used
 
