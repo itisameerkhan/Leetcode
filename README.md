@@ -56,7 +56,7 @@ I appreciate contributions to this repository! If you'd like to add your own sol
 
 ## License
 
-This repository does not have a specific license, so you are free to use the code in any way you like without any restrictions.
+This repository does not have a specific license©, so you are free to use the code in any way you like without any restrictions.
 
 If you have any questions or suggestions, feel free to open an issue in the repository.
 
