@@ -29,7 +29,7 @@ To access the solved code in this repository, you can either clone the entire re
 To clone the repository to your local machine, use the following command:
 ```bash
 git clone https://github.com/itisameerkhan/Leetcode.git
-
+```
 
 ### Downloading Individual Solutions
 
