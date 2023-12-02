@@ -1,5 +1,4 @@
 # Leetcode
-# Solved Code Repository
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20solved-227-blue?style=for-the-badge" >
@@ -28,6 +27,8 @@ To access the solved code in this repository, you can either clone the entire re
 ### Cloning the Repository
 
 To clone the repository to your local machine, use the following command:
+```bash
+git clone https://github.com/itisameerkhan/Leetcode.git
 
 
 ### Downloading Individual Solutions
