@@ -2,7 +2,7 @@
 # Solved Code Repository
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20solved-227-blue?style=flat-square" >
+  <img src="https://img.shields.io/badge/Problems%20solved-227-blue?style=plastic" >
 </p>
 
 <p align="center">
