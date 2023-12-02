@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Easy-155-0d8755" >
-  <img src="https://img.shields.io/badge/Medium-67-orange" >
-  <img src="https://img.shields.io/badge/Hard-5-red" >
+  <img src="https://img.shields.io/badge/Easy-155-00b8a3" >
+  <img src="https://img.shields.io/badge/Medium-67-ffc01e" >
+  <img src="https://img.shields.io/badge/Hard-5-ff375f" >
 </p>
 
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
