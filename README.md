@@ -1,13 +1,11 @@
 # Leetcode
 # Solved Code Repository
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
-</p>
+<img src="https://img.shields.io/badge/Problems%20solved-226-blue" >
 
-## Technology Used
+# Technology Used
 
-<p align="center">
+<p align="left">
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
