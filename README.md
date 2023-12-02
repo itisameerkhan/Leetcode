@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Easy-155-green" >
+  <img src="https://img.shields.io/badge/Easy-155-#0d8755" >
   <img src="https://img.shields.io/badge/Medium-67-orange" >
   <img src="https://img.shields.io/badge/Hard-5-red" >
 </p>
