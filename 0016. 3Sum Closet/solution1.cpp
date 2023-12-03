@@ -6,8 +6,7 @@ class Solution
     public:
     int threeSumCloset(vector<int> &nums,int target)
     {
-        if(nums.size() < 3)
-        {
+        if(nums.size() < 3) {
             return 0;
         }
 
