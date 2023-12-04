@@ -12,7 +12,7 @@ public:
                 s += num[i];
                 s += num[i+1];
                 s += num[i+2];
-                cout<<"s -> "<<s<<" index -> "<<i<<endl;
+                // cout<<"s -> "<<s<<" index -> "<<i<<endl;
                 int nums = stoi(s);
                 if(nums >= result) {
                     result = nums;
