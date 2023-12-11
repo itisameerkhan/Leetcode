@@ -9,15 +9,6 @@
   <img src="https://img.shields.io/badge/Medium-67-ffc01e" >
   <img src="https://img.shields.io/badge/Hard-5-ff375f" >
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-32-blue" >
-  <img src="https://img.shields.io/badge/C++-141-blue" >
-  <img src="https://img.shields.io/badge/Java-55-blue" >
-  <img src="https://img.shields.io/badge/MySQL-49-blue" >
-  <img src="https://img.shields.io/badge/JavaScript-15-blue" >
-  <img src="https://img.shields.io/badge/Python-3-blue" >
-</p>
-
 
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
 
