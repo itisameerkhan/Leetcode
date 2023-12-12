@@ -21,3 +21,8 @@ int main()
     Solution sol;
     cout<<sol.maxProduct(nums);
 }
+
+/*
+Runtime - 7MS
+Memory - 10.34MB
+*/

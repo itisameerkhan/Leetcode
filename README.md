@@ -13,6 +13,7 @@
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
 
 ![LeetCode](https://theabbie.github.io/blog/assets/leetcode-grinding-guide.jpg)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
