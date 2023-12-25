@@ -1,12 +1,12 @@
 # Leetcode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20solved-235-blue" >
+  <img src="https://img.shields.io/badge/Problems%20solved-236-blue" >
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Easy-162-00b8a3" >
-  <img src="https://img.shields.io/badge/Medium-68-ffc01e" >
+  <img src="https://img.shields.io/badge/Medium-69-ffc01e" >
   <img src="https://img.shields.io/badge/Hard-5-ff375f" >
 </p>
 
