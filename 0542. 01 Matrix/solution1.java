@@ -56,6 +56,7 @@ class Solution {
 
 public class solution1 {
     public static void main(String[] main) {
+        
         int[][] matrix = {{0,0,0},
                           {0,1,0},
                           {1,1,1}};
