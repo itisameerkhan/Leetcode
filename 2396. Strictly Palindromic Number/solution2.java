@@ -1,6 +1,6 @@
 class Solution {
-    public int calculateBase(int n, int base) {
-        return false;
+    public boolean isStrictlyPalindromic(int n) {
+        return false;   
     }
 }
 public class solution2 {
