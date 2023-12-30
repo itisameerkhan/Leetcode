@@ -24,6 +24,7 @@ class Solution {
         return result;
     }
 }
+
 public class solution1 {
     public static void main(String[] args) {
         String s1 = "11";
