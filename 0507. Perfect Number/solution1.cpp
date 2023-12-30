@@ -22,6 +22,7 @@ public:
         
     }
 };
+
 int main() 
 {
     int n = 28;
