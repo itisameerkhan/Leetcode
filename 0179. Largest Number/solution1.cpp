@@ -12,9 +12,14 @@ class Solution
     {
         sort(nums.begin(), nums.end(), compare);
         string result = "";
-        for(int i=0;i<nums.size();i++) result += to_string(nums[i]);
-        if(nums[0]==0) return "0";
-        return result;
+        int index=0;
+        while(index < nums.size() && nums[index] == 0) index++;
+        while(index < nums.size()) {
+            result += to_string(nums[index]);
+            index++;
+        }
+        if(result=="") return "0";
+        return result; 
     }
 };
 int main()
