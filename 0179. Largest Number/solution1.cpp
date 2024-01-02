@@ -4,25 +4,22 @@ using namespace std;
 class Solution
 {
     public:
+    static bool compare(int a, int b) 
+    {
+        return to_string(a) + to_string(b) > to_string(b) + to_string(a);
+    }
     string largestNumber(vector<int>& nums) 
     {
-        vector<string> strnum;
-        for(int i=0;i<nums.size();i++)
-        {
-            string s = 
-            strnum.p
-        }
+        sort(nums.begin(), nums.end(), compare);
+        string result = "";
+        for(int i=0;i<nums.size();i++) result += to_string(nums[i]);
+        if(nums[0]==0) return "0";
+        return result;
     }
 };
 int main()
 {
-    int n;
-    cin>>n;
-    vector<int> nums(n);
-    for(int i=0;i<n;i++)
-    {
-        cin>>nums[i];
-    }
+    vector<int> nums = {3,30,34,5,9};
     Solution sol;
-    sol.largestNumber(nums);
+    cout<<sol.largestNumber(nums);
 }
