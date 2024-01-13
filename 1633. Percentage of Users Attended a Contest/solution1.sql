@@ -31,6 +31,7 @@ VALUES
 (207, 2),
 (210, 7);
 
+
 SELECT contest_id, ROUND((COUNT(DISTINCT user_id)/(SELECT COUNT(user_id) FROM Users)*100),2) AS percentage 
 FROM Register 
 GROUP BY contest_id
