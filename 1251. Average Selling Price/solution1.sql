@@ -29,7 +29,7 @@ VALUES
     (2, '2019-03-22', 30);
 
 SELECT p.product_id,
-ROUND(SUM(u.units * p.price)/SUM(u.units),2) AS average_price
+IFNULL(ROUND(SUM(u.units * p.price)/SUM(u.units),2),0) AS average_price
 FROM prices AS p
 JOIN unitssold u
 ON (p.product_id = u.product_id 
