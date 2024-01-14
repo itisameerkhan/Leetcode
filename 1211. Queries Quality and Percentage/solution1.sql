@@ -15,10 +15,10 @@ INSERT INTO queries VALUES
 ('Cat','Sphynx',7,4);
 
 SELECT query_name,
-ROUND(AVG(rating/position),2) AS quality,
+ROUND(AVG(CAST(rating AS DECIMAL)/position),2) AS quality,
 ROUND(COUNT(CASE WHEN rating < 3 THEN 1 END)*100 / COUNT(*),2) 
 AS poor_query_percentage
 FROM queries
+WHERE query_name IS NOT NULL
 GROUP BY query_name;
-
 
