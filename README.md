@@ -13,13 +13,11 @@
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
 
 ```
- __                     __                      __
-/\ \                   /\ \__                  /\ \
-\ \ \         __     __\ \ ,_\   ___    ___    \_\ \     __
- \ \ \  __  /'__`\ /'__`\ \ \/  /'___\ / __`\  /'_` \  /'__`\
-  \ \ \L\ \/\  __//\  __/\ \ \_/\ \__//\ \L\ \/\ \L\ \/\  __/
-   \ \____/\ \____\ \____\\ \__\ \____\ \____/\ \___,_\ \____\
-    \/___/  \/____/\/____/ \/__/\/____/\/___/  \/__,_ /\/____/
+ _              _                _      
+| |    ___  ___| |_ ___ ___   __| | ___ 
+| |   / _ \/ _ \ __/ __/ _ \ / _` |/ _ \
+| |__|  __/  __/ || (_| (_) | (_| |  __/
+|_____\___|\___|\__\___\___/ \__,_|\___|
 ```
 
 ## Table of Contents
