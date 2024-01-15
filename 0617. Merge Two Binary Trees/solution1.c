@@ -1,3 +1,4 @@
+
 struct TreeNode* mergeTrees(struct TreeNode* root1, struct TreeNode* root2)
 {
     if(root1==NULL) return root2;
