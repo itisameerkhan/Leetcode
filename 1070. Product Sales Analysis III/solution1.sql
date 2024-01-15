@@ -29,4 +29,3 @@ WHERE (product_id, year) IN (
     FROM sales 
     GROUP BY product_id
 );
-
