@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Hard-6-ff375f" >
 </p>
 
-Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources.
+Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources. 
 
 ```
  _              _                _      
@@ -67,4 +67,4 @@ This repository does not have a specific license©, so you are free to use the c
 
 If you have any questions or suggestions, feel free to open an issue in the repository.
 
-Happy coding!
+Happy coding!.
