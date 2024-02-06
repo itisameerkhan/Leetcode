@@ -1,24 +1,8 @@
 # Leetcode
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20solved-269-blue" >
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Easy-175-00b8a3" >
-  <img src="https://img.shields.io/badge/Medium-88-ffc01e" >
-  <img src="https://img.shields.io/badge/Hard-6-ff375f" >
-</p>
+![Ameer khan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=itisameerkhan)
 
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources. 
-
-```
- _              _                _      
-| |    ___  ___| |_ ___ ___   __| | ___ 
-| |   / _ \/ _ \ __/ __/ _ \ / _` |/ _ \
-| |__|  __/  __/ || (_| (_) | (_| |  __/
-|_____\___|\___|\__\___\___/ \__,_|\___|
-```
 
 ## Table of Contents
 
