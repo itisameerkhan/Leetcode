@@ -51,4 +51,4 @@ This repository does not have a specific license©, so you are free to use the c
 
 If you have any questions or suggestions, feel free to open an issue in the repository.
 
-Happy coding!.
+Happy coding!
