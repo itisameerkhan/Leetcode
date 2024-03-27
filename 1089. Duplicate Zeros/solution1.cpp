@@ -16,8 +16,10 @@ public:
             if (nums[i] == 0)
             {
                 result.push_back(0);
+                
                 if (result.size() >= nums.size())
-                break;
+                break; 
+
                 result.push_back(0);
             }
             else
