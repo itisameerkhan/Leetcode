@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Runs every day at midnight UTC
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update-streak:
     runs-on: ubuntu-latest
