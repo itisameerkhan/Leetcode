@@ -1,6 +1,6 @@
 # Leetcode
 
-![Ameer khan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=itisameerkhan)
+![Ameer khan's LeetCode stats](https://leetcard.jacoblin.cool/itisameerkhan)
 
 Welcome to my Solved Code Repository! This repository is dedicated to storing the code I have solved for various programming problems and challenges. Each problem has its own directory containing the solution files and any necessary resources. 
 
